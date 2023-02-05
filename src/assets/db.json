@@ -1,0 +1,1370 @@
+[
+  {
+    "id": 6063,
+    "event_name": "ADD_CONTROLLER",
+    "category": "SUPERVISION.CLIENT",
+    "user_id": 298,
+    "controller_id": 266,
+    "timestamp_at": "2021-05-31 14:12:24.917"
+  },
+  {
+    "id": 6064,
+    "event_name": "INVITED_USER",
+    "category": "CONTROLLER.USERS",
+    "user_id": 298,
+    "controller_id": 267,
+    "timestamp_at": "2021-05-31 14:12:38.485"
+  },
+  {
+    "id": 6065,
+    "event_name": "CONFIRMED_INVITE",
+    "category": "CONTROLLER.USERS",
+    "user_id": 298,
+    "controller_id": 267,
+    "timestamp_at": "2021-05-31 14:12:59.367"
+  },
+  {
+    "id": 6066,
+    "event_name": "DELETE_USER",
+    "category": "CONTROLLER.USERS",
+    "user_id": 298,
+    "controller_id": 267,
+    "timestamp_at": "2021-05-31 14:13:11.798"
+  },
+  {
+    "id": 6067,
+    "event_name": "CREATE",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 223,
+    "timestamp_at": "2021-06-14 13:10:31.357"
+  },
+  {
+    "id": 6068,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 223,
+    "timestamp_at": "2021-06-14 13:10:35.982"
+  },
+  {
+    "id": 6069,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 223,
+    "timestamp_at": "2021-06-14 13:10:38.68"
+  },
+  {
+    "id": 6070,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 223,
+    "timestamp_at": "2021-06-14 13:10:41.312"
+  },
+  {
+    "id": 6071,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 223,
+    "timestamp_at": "2021-06-14 13:10:43.464"
+  },
+  {
+    "id": 6072,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 223,
+    "timestamp_at": "2021-06-14 13:10:45.53"
+  },
+  {
+    "id": 6073,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 223,
+    "timestamp_at": "2021-06-14 13:10:46.833"
+  },
+  {
+    "id": 6074,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 223,
+    "timestamp_at": "2021-06-14 13:10:47.362"
+  },
+  {
+    "id": 6075,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 223,
+    "timestamp_at": "2021-06-14 13:10:50.165"
+  },
+  {
+    "id": 6076,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 223,
+    "timestamp_at": "2021-06-14 13:10:53.1"
+  },
+  {
+    "id": 6077,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 223,
+    "timestamp_at": "2021-06-14 13:10:55.97"
+  },
+  {
+    "id": 6078,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 223,
+    "timestamp_at": "2021-06-14 13:11:04.098"
+  },
+  {
+    "id": 6079,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 223,
+    "timestamp_at": "2021-06-14 13:11:12.674"
+  },
+  {
+    "id": 6080,
+    "event_name": "CREATE",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 09:18:18.482"
+  },
+  {
+    "id": 6081,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 09:18:37.503"
+  },
+  {
+    "id": 6082,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 09:18:41.956"
+  },
+  {
+    "id": 6083,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 09:18:44.996"
+  },
+  {
+    "id": 6084,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 09:18:58.438"
+  },
+  {
+    "id": 6085,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 09:19:11.057"
+  },
+  {
+    "id": 6086,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 09:19:22.584"
+  },
+  {
+    "id": 6087,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 09:19:48.636"
+  },
+  {
+    "id": 6088,
+    "event_name": "UPLOADED",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 09:19:56.692"
+  },
+  {
+    "id": 6089,
+    "event_name": "UPDATE_DETAILS",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 09:19:57.941"
+  },
+  {
+    "id": 6090,
+    "event_name": "UPLOADED",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 09:20:07.839"
+  },
+  {
+    "id": 6091,
+    "event_name": "UPDATE_DETAILS",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 09:20:08.867"
+  },
+  {
+    "id": 6092,
+    "event_name": "INVITED_USER",
+    "category": "CONTROLLER.USERS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 09:38:53.807"
+  },
+  {
+    "id": 6093,
+    "event_name": "CONFIRMED_INVITE",
+    "category": "CONTROLLER.USERS",
+    "user_id": 299,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 09:39:37.061"
+  },
+  {
+    "id": 6094,
+    "event_name": "DOCUMENT.UPLOAD",
+    "category": "CONTROLLER.RPA",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 10:32:00.501"
+  },
+  {
+    "id": 6095,
+    "event_name": "UPDATE_DETAILS",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 10:32:01.489"
+  },
+  {
+    "id": 6096,
+    "event_name": "UPLOADED",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 10:32:10.164"
+  },
+  {
+    "id": 6097,
+    "event_name": "UPDATE_DETAILS",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 10:32:12.274"
+  },
+  {
+    "id": 6098,
+    "event_name": "DOCUMENT.UPLOAD",
+    "category": "CONTROLLER.RPA",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 10:32:42.097"
+  },
+  {
+    "id": 6099,
+    "event_name": "UPDATE_DETAILS",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 10:32:43.779"
+  },
+  {
+    "id": 6100,
+    "event_name": "UPLOADED",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 10:32:56.429"
+  },
+  {
+    "id": 6101,
+    "event_name": "UPDATE_DETAILS",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 10:32:57.534"
+  },
+  {
+    "id": 6102,
+    "event_name": "UPLOADED",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 10:33:22.823"
+  },
+  {
+    "id": 6103,
+    "event_name": "UPDATE_DETAILS",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-15 10:33:23.791"
+  },
+  {
+    "id": 6104,
+    "event_name": "CREATE",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-17 14:57:50.192"
+  },
+  {
+    "id": 6185,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:03:38.282"
+  },
+  {
+    "id": 6186,
+    "event_name": "ENTRY.EXPLANATION_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:03:57.407"
+  },
+  {
+    "id": 6105,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-17 14:58:38.075"
+  },
+  {
+    "id": 6106,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-17 14:59:29.592"
+  },
+  {
+    "id": 6107,
+    "event_name": "ADD_DPA",
+    "category": "CONTROLLER.VENDORS",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-17 15:00:26.554"
+  },
+  {
+    "id": 6108,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-17 15:00:41.694"
+  },
+  {
+    "id": 6109,
+    "event_name": "EP.ADD",
+    "category": "CONTROLLER.RPA",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 11:33:46.251"
+  },
+  {
+    "id": 6110,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.RPA",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 11:33:46.339"
+  },
+  {
+    "id": 6111,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.RPA",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 11:33:46.352"
+  },
+  {
+    "id": 6112,
+    "event_name": "DPA_TOGGLE_REQUIRED",
+    "category": "CONTROLLER.VENDORS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 11:42:03.706"
+  },
+  {
+    "id": 6113,
+    "event_name": "DPA_TOGGLE_REQUIRED",
+    "category": "CONTROLLER.VENDORS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 11:42:06.458"
+  },
+  {
+    "id": 6114,
+    "event_name": "CREATE",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 11:45:56.863"
+  },
+  {
+    "id": 6115,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 11:50:38.3"
+  },
+  {
+    "id": 6116,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 11:50:38.336"
+  },
+  {
+    "id": 6117,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 12:07:34.959"
+  },
+  {
+    "id": 6118,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 12:09:02.419"
+  },
+  {
+    "id": 6119,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 12:09:03.586"
+  },
+  {
+    "id": 6120,
+    "event_name": "UPLOADED",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 12:10:32.97"
+  },
+  {
+    "id": 6121,
+    "event_name": "UPDATE_DETAILS",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 12:10:33.937"
+  },
+  {
+    "id": 6122,
+    "event_name": "CREATE",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 12:12:02.102"
+  },
+  {
+    "id": 6123,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 12:15:34.784"
+  },
+  {
+    "id": 6124,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 12:15:41.876"
+  },
+  {
+    "id": 6125,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 12:16:40.979"
+  },
+  {
+    "id": 6126,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 12:16:43.889"
+  },
+  {
+    "id": 6127,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 12:16:53.38"
+  },
+  {
+    "id": 6128,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 12:16:54.335"
+  },
+  {
+    "id": 6129,
+    "event_name": "ADD_DPA",
+    "category": "CONTROLLER.VENDORS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-18 12:18:05.706"
+  },
+  {
+    "id": 6130,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:17:15.295"
+  },
+  {
+    "id": 6131,
+    "event_name": "CREATE",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:29:22.644"
+  },
+  {
+    "id": 6132,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:29:25.559"
+  },
+  {
+    "id": 6133,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:29:28.056"
+  },
+  {
+    "id": 6134,
+    "event_name": "EP.ADD",
+    "category": "CONTROLLER.RPA",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:29:28.899"
+  },
+  {
+    "id": 6135,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.RPA",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:29:29.043"
+  },
+  {
+    "id": 6136,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.RPA",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:29:29.082"
+  },
+  {
+    "id": 6137,
+    "event_name": "EP.ADD",
+    "category": "CONTROLLER.RPA",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:29:31.366"
+  },
+  {
+    "id": 6138,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.RPA",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:29:31.448"
+  },
+  {
+    "id": 6139,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.RPA",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:29:31.468"
+  },
+  {
+    "id": 6140,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:29:31.663"
+  },
+  {
+    "id": 6141,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:29:34.107"
+  },
+  {
+    "id": 6142,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:29:35.484"
+  },
+  {
+    "id": 6143,
+    "event_name": "CREATE",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:29:37.623"
+  },
+  {
+    "id": 6144,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:29:38.195"
+  },
+  {
+    "id": 6145,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:29:40.837"
+  },
+  {
+    "id": 6187,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:10:45.421"
+  },
+  {
+    "id": 6146,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:29:44.523"
+  },
+  {
+    "id": 6147,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:29:45.469"
+  },
+  {
+    "id": 6148,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:29:47.63"
+  },
+  {
+    "id": 6149,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:29:49.172"
+  },
+  {
+    "id": 6150,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:29:50.211"
+  },
+  {
+    "id": 6151,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:29:52.582"
+  },
+  {
+    "id": 6152,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:29:55.361"
+  },
+  {
+    "id": 6153,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:29:59.545"
+  },
+  {
+    "id": 6154,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:30:26.779"
+  },
+  {
+    "id": 6155,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:30:34.064"
+  },
+  {
+    "id": 6156,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:31:24.849"
+  },
+  {
+    "id": 6157,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:31:29.175"
+  },
+  {
+    "id": 6158,
+    "event_name": "UPLOADED",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:31:34.5"
+  },
+  {
+    "id": 6159,
+    "event_name": "UPDATE_DETAILS",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:31:39.686"
+  },
+  {
+    "id": 6160,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:33:27.291"
+  },
+  {
+    "id": 6161,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:33:27.324"
+  },
+  {
+    "id": 6162,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:33:29.323"
+  },
+  {
+    "id": 6163,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:33:33.93"
+  },
+  {
+    "id": 6164,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:33:35.136"
+  },
+  {
+    "id": 6165,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:33:51.948"
+  },
+  {
+    "id": 6166,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:33:53.047"
+  },
+  {
+    "id": 6167,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:33:54.555"
+  },
+  {
+    "id": 6168,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:33:55.819"
+  },
+  {
+    "id": 6169,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:33:56.5"
+  },
+  {
+    "id": 6170,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:33:57.731"
+  },
+  {
+    "id": 6171,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:33:58.617"
+  },
+  {
+    "id": 6172,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:33:59.835"
+  },
+  {
+    "id": 6173,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:34:01.082"
+  },
+  {
+    "id": 6174,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-22 09:34:02.371"
+  },
+  {
+    "id": 6175,
+    "event_name": "UPLOADED",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:49:48.711"
+  },
+  {
+    "id": 6176,
+    "event_name": "UPDATE_DETAILS",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 09:49:49.772"
+  },
+  {
+    "id": 6177,
+    "event_name": "CREATE",
+    "category": "CONTROLLER.AUDIT",
+    "user_id": 300,
+    "controller_id": 261,
+    "timestamp_at": "2021-06-22 09:55:58.926"
+  },
+  {
+    "id": 6178,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:02:51.448"
+  },
+  {
+    "id": 6179,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:02:51.795"
+  },
+  {
+    "id": 6180,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:02:52.149"
+  },
+  {
+    "id": 6181,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:03:34.233"
+  },
+  {
+    "id": 6182,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:03:34.731"
+  },
+  {
+    "id": 6183,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:03:36.417"
+  },
+  {
+    "id": 6184,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:03:36.897"
+  },
+  {
+    "id": 6188,
+    "event_name": "ENTRY.EXPLANATION_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:10:47.439"
+  },
+  {
+    "id": 6189,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:12:25.035"
+  },
+  {
+    "id": 6190,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:12:25.549"
+  },
+  {
+    "id": 6191,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:13:56.444"
+  },
+  {
+    "id": 6192,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:14:34.037"
+  },
+  {
+    "id": 6193,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:14:36.355"
+  },
+  {
+    "id": 6194,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:14:45.199"
+  },
+  {
+    "id": 6195,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:14:45.645"
+  },
+  {
+    "id": 6196,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:14:46.598"
+  },
+  {
+    "id": 6197,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:14:47.143"
+  },
+  {
+    "id": 6198,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:16:55.383"
+  },
+  {
+    "id": 6199,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:16:57.605"
+  },
+  {
+    "id": 6200,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:17:00.247"
+  },
+  {
+    "id": 6201,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:18:10.322"
+  },
+  {
+    "id": 6202,
+    "event_name": "ENTRY.APPLICABLE_UPDATE",
+    "category": "CONTROLLER.TOMS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-22 10:18:10.78"
+  },
+  {
+    "id": 6203,
+    "event_name": "EP.ADD",
+    "category": "CONTROLLER.RPA",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:05:30.122"
+  },
+  {
+    "id": 6204,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.RPA",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:05:30.189"
+  },
+  {
+    "id": 6205,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.RPA",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:05:30.198"
+  },
+  {
+    "id": 6206,
+    "event_name": "CREATE",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:05:37.704"
+  },
+  {
+    "id": 6207,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:05:46.062"
+  },
+  {
+    "id": 6208,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:05:54.683"
+  },
+  {
+    "id": 6209,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:05:58.568"
+  },
+  {
+    "id": 6210,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:05:59.718"
+  },
+  {
+    "id": 6211,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:06:02.063"
+  },
+  {
+    "id": 6212,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:06:08.728"
+  },
+  {
+    "id": 6213,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:06:13.25"
+  },
+  {
+    "id": 6214,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:06:16.064"
+  },
+  {
+    "id": 6215,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:06:23.859"
+  },
+  {
+    "id": 6216,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:06:25.564"
+  },
+  {
+    "id": 6217,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:06:28.497"
+  },
+  {
+    "id": 6218,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 10:06:30.028"
+  },
+  {
+    "id": 6219,
+    "event_name": "DPA_TOGGLE_REQUIRED",
+    "category": "CONTROLLER.VENDORS",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-23 11:33:06.4"
+  },
+  {
+    "id": 6220,
+    "event_name": "DPA_TOGGLE_REQUIRED",
+    "category": "CONTROLLER.VENDORS",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-23 11:33:07.949"
+  },
+  {
+    "id": 6221,
+    "event_name": "DPA_TOGGLE_REQUIRED",
+    "category": "CONTROLLER.VENDORS",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-23 11:33:08.826"
+  },
+  {
+    "id": 6222,
+    "event_name": "DPA_TOGGLE_REQUIRED",
+    "category": "CONTROLLER.VENDORS",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-23 11:33:10.547"
+  },
+  {
+    "id": 6223,
+    "event_name": "DPA_TOGGLE_REQUIRED",
+    "category": "CONTROLLER.VENDORS",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-23 11:33:11.591"
+  },
+  {
+    "id": 6224,
+    "event_name": "DPA_TOGGLE_REQUIRED",
+    "category": "CONTROLLER.VENDORS",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-23 11:33:25.635"
+  },
+  {
+    "id": 6225,
+    "event_name": "CREATE",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-23 11:33:28.627"
+  },
+  {
+    "id": 6226,
+    "event_name": "UPLOADED",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-23 11:34:15.792"
+  },
+  {
+    "id": 6227,
+    "event_name": "UPDATE_DETAILS",
+    "category": "CONTROLLER.DOCUMENT",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-23 11:34:17.688"
+  },
+  {
+    "id": 6228,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-23 11:34:35.451"
+  },
+  {
+    "id": 6229,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-23 11:34:39.924"
+  },
+  {
+    "id": 6230,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-23 11:38:54.839"
+  },
+  {
+    "id": 6231,
+    "event_name": "UPDATE_FIELD",
+    "category": "CONTROLLER.VENDORS.AUDIT",
+    "user_id": 26,
+    "controller_id": 17,
+    "timestamp_at": "2021-06-23 11:39:04.633"
+  },
+  {
+    "id": 6232,
+    "event_name": "ADD_DPA",
+    "category": "CONTROLLER.VENDORS",
+    "user_id": 290,
+    "controller_id": 244,
+    "timestamp_at": "2021-06-23 13:54:41.862"
+  },
+  {
+    "id": 6233,
+    "event_name": "CREATE",
+    "category": "CONTROLLER.AUDIT",
+    "user_id": 293,
+    "controller_id": 257,
+    "timestamp_at": "2021-06-25 08:57:26.191"
+  }
+]

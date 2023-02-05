@@ -1,0 +1,17 @@
+<h1>Monthly active users</h1>
+
+<div class="center">
+  <div>
+    <button (click)="renderChart({days: 7})" class="buttons">Last 7 Days</button>
+    <button (click)="renderChart({months: 1})" class="buttons">Last 30 Days</button>
+  </div>
+</div>
+
+<div *ngIf="dataList.length && !error; else errorBlock">
+  <div echarts [options]="options"></div>
+</div>
+
+<ng-template #errorBlock>
+  <div class="center">An error has occurred. Please try again later.</div>
+</ng-template>
+
